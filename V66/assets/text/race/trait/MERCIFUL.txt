@@ -1,0 +1,3 @@
+NAME: "Merciful",
+TITLE: "Милосердный",
+DESC: "Some call it weakness, but other calls it chivalry. Values life and will choose life when possible.",

@@ -1,0 +1,10 @@
+NAMES: [
+	"Логово {0}",
+	"Туннели {0}",
+	"Склеп {0}",
+	"Ямы {0}",
+	"Залы {0}",
+	"Гнездо {0}",
+],
+JOIN: "The deadly Argonosh have decided that you are worthy of their presence, given that you promise them manflesh from time to time. Give them access to your dwelling and they shall serve you with their might.",
+LEAVE: "The mighty Argonosh are disgusted with how low your kingdom has sunk, and some of them are now leaving your city.",

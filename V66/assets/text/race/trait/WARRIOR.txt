@@ -1,0 +1,3 @@
+NAME: "Warlike",
+TITLE: "The Conqueror",
+DESC: "A seeker or glory that will eagerly find or create a conflict for a chance of battle.",

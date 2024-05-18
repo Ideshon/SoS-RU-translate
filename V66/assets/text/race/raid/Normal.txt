@@ -1,0 +1,34 @@
+GREETING: [
+	"Привет, друг!",
+	"Поздравляем!",
+	"Salve, great one!",
+],
+INTROS: [
+	"I am {0}, the leader of a non-profit organization called {1}.",
+	"Hello friend. We are {1}, a band of noble people.",
+	"Name's {0}, and I represent {1}.",
+],
+BODIES: [
+	"We are nearby ATM, and it would be a shame to leave you without the opportunity to pay us tribute.",
+	"We come from a far-off land, and our mission is to spread joy and peace in the whole of Syx. As you well know, the world is full of shady types and opportunists. That is why we want offer our services to protect you.",
+	"As you know, there are evil forces out in the world, bent on destruction and conquest. We however, are lovers of peace, and would like to offer our protective services.",
+	"We have come from far away in order to help you out. Maybe you haven't heard, but there are bandits out there who are conspiring to take what is yours as you read this. Let us help you.",
+],
+ENDS: [
+	"All we ask in return is a small compensation. What say you?",
+	"Солдатам нужно есть, поэтому мы убедительно просим вас прислать нам кое-какие припасы, чтобы мы могли поддерживать мир. Это выгодная сделка.",
+	"Give us this small token of good will, and no harm will come to you.",
+	"Please ship us the following:",
+],
+ARRIVE: [
+	"Fool! You just passed up the opportunity of a lifetime. Well, now we have no choice but to pay you a little visit.",
+	"Никаких подарков, никакой любви с нашей стороны. Помните, мы вас предупреждали.",
+	"Привет. Вы забыли заплатить. Приготовься умереть.",
+	"Завтра мы придем и пожнем плоды того, что вы построили. Я лично помочусь на ваш трон. До тех пор...",
+	"What you do not give willingly, we regret to inform that we must take by force.",
+],
+PAYED: [
+	"Хорошо хорошо. Раз, два, три... да вроде все есть. Было приятно иметь с вами дело. Без сомнения, мы встретимся снова, скорее, чем вы думаете. Убедитесь, что ваши запасы заполнены до краев. Та-та!",
+	"Я рад, что вы видите причину. Нет смысла расстраиваться из-за этого, это просто перераспределение богатства. Теперь нам пора уйти. До скорого!",
+	"What is this crap you sent me, are you pulling my leg? Punishment awaits! No, sorry, forgive twisted sense of humour. It's all there, you have our thanks. We shall meet again. Goodbye.",
+],

@@ -1,0 +1,3 @@
+NAME: "Жестокий",
+TITLE: "The Merciless",
+DESC: "Rules should be enforced by fear. Opposition should be ruthlessly destroyed.",

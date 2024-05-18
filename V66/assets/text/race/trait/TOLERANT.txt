@@ -1,0 +1,3 @@
+NAME: "Tolerant",
+TITLE: "The Great Humanist.",
+DESC: "Believes in diversity and equal value in all races of Syx.",

@@ -1,0 +1,80 @@
+INFO_GENERAL: [
+	"{RACE_POSSESSIVE} {CLASS}: {NAME}. Возраст: {AGE},",
+],
+INFO_TITLE: [
+	"{TITLE}.",
+],
+INFO_GENERAL2: [
+	"Здоровье: {HEALTH}, вес: {WEIGHT} камней, рост: {HEIGHT}.",
+],
+INFO_GENERAL3: [
+	"Религия: {RELIGION}.",
+],
+TRAIT: [
+	"Черты: {TRAITS}.",
+],
+TRAIT_NONE: [
+	"Черты: нет.",
+],
+ORIGIN_NATIVE: [
+],
+ORIGIN_IMMI: [
+],
+ORIGIN_FREED: [
+],
+ORIGIN_PAROLE: [
+],
+ORIGIN_SOLDIER: [
+],
+ORIGIN_INSANE: [
+],
+RELIGION: [
+	"Последователь {RELIGION}.",
+],
+HOME: [
+	"Жилище: {HOME_TYPE}, {HOME_LOCATION} часть города, совместный дом с {HOME_MATES}.",
+],
+HOME_ALONE: [
+	"Жилье: {HOME_TYPE}, {HOME_LOCATION} часть города. Живет один.",
+],
+HOME_NONE_WORK: [
+	"Не смог найти место для проживания в непосредственной близости от своего рабочего места.",
+],
+HOME_NONE: [
+	"Не смог найти место для проживания в вашем городе.",
+],
+HOME_NONE_SEARCH: [
+	"Еще не занимался поиском жилья, но скоро этим займется.",
+],
+HOME_NOBLE: [
+	"Проживает в {HOME_TYPE}, в {HOME_LOCATION} части города.",
+],
+DIVISION: [
+	"Военнослужащий в дивизии: {DIVISION}.",
+],
+DIVISION_RECRUIT: [
+	"Тренируется для присоединения к дивизии {DIVISION}.",
+],
+DIVISION_NONE: [
+	"Не зачислен в наши вооруженные силы.",
+],
+WORK_NOBLE: [
+	"Проверка обязанностей, которые были назначены.",
+],
+WORK_EMPLOYED: [
+	"Работает в: {WORKPLACE}.",
+],
+WORK_UNEMPLOYED: [
+	"Не работает.",
+],
+WORK_LEISURE: [
+	"В настоящее время не работает.",
+],
+FRIEND: [
+],
+FRIEND_ENEMY: [
+],
+FRIEND_OTHER: [
+],
+DREAMS: [
+],

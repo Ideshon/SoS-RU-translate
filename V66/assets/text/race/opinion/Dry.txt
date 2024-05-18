@@ -1,0 +1,195 @@
+HAPPY: [
+	"Доволен городом. Требования:",
+],
+HAPPY_SOSO: [
+	"Недоволен городом. Требования:",
+],
+HAPPY_NO: [
+	"В ярости от вашего правления. Требования:",
+],
+NOTHING: [
+	"Пока что ничего.",
+],
+FUNNY: [
+	"Выказывайте богам больше уважения. Выпрямите спину, поднимите подбородок.",
+],
+STATS: {
+	BURIAL_DESECRATION: {
+		MORE: [
+			"Остановить осквернение мертвых.",
+		],
+	},
+	RELIGION_TEMPLE: {
+		MORE: [
+			"Лучший доступ к храму.",
+		],
+	},
+	RELIGION_SHRINE: {
+		MORE: [
+			"Лучший доступ к святилищу.",
+		],
+	},
+	RELIGION_RELIGION_OPPOSITION: {
+		MORE: [
+			"Обращайте неверных.",
+		],
+	},
+	POPULATION_NOBLES: {
+		MORE: [
+			"Больше дворян нашей расы.",
+		],
+	},
+	POPULATION_IMMIGRANTS: {
+		LESS: [
+			"Меньше иммигрантов",
+		],
+	},
+	POPULATION_FORMER_SLAVES: {
+		LESS: [
+			"Прекратите давать рабам гражданство.",
+		],
+	},
+	POPULATION_MAJORITY: {
+		MORE: [
+			"Наша раса должна быть более многочисленна.",
+		],
+	},
+	POPULATION_SLAVES_SELF: {
+		LESS: [
+			"Хватит порабощать нашу расу.",
+		],
+	},
+	POPULATION_SLAVES_OTHER: {
+		MORE: [
+			"Больше рабов!",
+		],
+	},
+	POPULATION_WRONGFUL_DEATHS: {
+		LESS: [
+			"Берегите наши жизни.",
+		],
+	},
+	ENVIRONMENT_BUILDING_PREF: {
+		MORE: [
+			"Преобразуйте здания с использованием наших предпочтительных материалов.",
+		],
+	},
+	ENVIRONMENT_OTHERS: {
+		LESS: [
+			"Избавьтесь от низших рас.",
+		],
+	},
+	ACCESS_ROUNDNESS: {
+		MORE: [
+			"Больше органичной архитектуры.",
+		],
+		LESS: [
+			"Больше квадратной архитектуры",
+		],
+	},
+	ENVIRONMENT_CANNIBALISM: {
+		LESS: [
+			"Остановите каннибализм.",
+		],
+	},
+	ENVIRONMENT_UNBURRIED: {
+		LESS: [
+			"Похоронить мертвых.",
+		],
+	},
+	ENVIRONMENT_ROAD_ACCESS: {
+		MORE: [
+			"More roads",
+		],
+	},
+	ENVIRONMENT_ROAD_PREF: {
+		MORE: [
+			"More roads of the type I prefer.",
+		],
+	},
+	ENVIRONMENT_SKINNY_DIP: {
+		MORE: [
+			"Иметь место для купания при хорошей погоде.",
+		],
+	},
+	GOVERN_RICHES: {
+		MORE: [
+			"Увеличьте прибыль.",
+		],
+	},
+	FOOD_STARVATION: {
+		MORE: [
+			"Исправить проблемы с пищей.",
+		],
+	},
+	FOOD_FOOD_PREFFERENCE: {
+		MORE: [
+			"Лучший ассортимент еды.",
+		],
+	},
+	FOOD_DRINK_PREFFERENCE: {
+		MORE: [
+			"Better assortment of beverages.",
+		],
+	},
+	FOOD_FOOD_DAYS: {
+		MORE: [
+			"Исправить проблемы с пищей.",
+		],
+	},
+	FOOD_FOOD_RATIONS: {
+		MORE: [
+			"Больше пищевых рационов.",
+		],
+	},
+	FOOD_DRINK_RATIONS: {
+		MORE: [
+			"Разрешается больше пить.",
+		],
+	},
+	WORK_RETIREMENT_AGE: {
+		MORE: [
+			"Более ранний пенсионный возраст.",
+		],
+	},
+	WORK_FULFILLMENT: {
+		MORE: [
+			"Better work fulfilment.",
+		],
+	},
+	WORK_EMPLOYED: {
+		MORE: [
+			"Занятость.",
+		],
+	},
+	WORK_RETIREMENT: {
+		MORE: [
+			"Мероприятия для пожилых людей.",
+		],
+	},
+	HOME_HOUSED: {
+		MORE: [
+			"Больше жилья.",
+		],
+	},
+	HOME_FURNITURE: {
+		MORE: [
+			"Допускается больше мебели.",
+		],
+	},
+	BATTLE_ENEMY_KILLS: {
+		MORE: [
+			"Убей и поработи наших врагов.",
+		],
+	},
+	BATTLE_SOLDIERS_TOTAL: {
+		MORE: [
+			"Большая армия.",
+		],
+	},
+	SERVICE_HOSPITAL: {
+		MORE: [
+			"More hospitalsy.",
+		],
+	},
+},
