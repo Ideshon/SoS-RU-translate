@@ -1,0 +1,7 @@
+VERSION: "1",
+GAME_VERSION_MAJOR: 66.42,
+GAME_VERSION_MINOR: 64,
+NAME: "RuTranslate",
+DESC: "Добавлен перевод непререведенных строк версии 65. Перевод 66 в процессе. Обязательно дайте знать об ошибках.",
+AUTHOR: "Ideshon",
+INFO: "",
