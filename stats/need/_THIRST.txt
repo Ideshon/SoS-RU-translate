@@ -1,0 +1,2 @@
+NAME_NEED: "Напиток",
+NAME_RATE: "Жажда",
