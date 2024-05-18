@@ -1,0 +1,7 @@
+INFO: {
+	NAME: "Гора",
+	NAMES: "Горы",
+	DESC: "Гора",
+},
+NAME_WALL: "Гора",
+NAME_CEILING: "Пещера",
