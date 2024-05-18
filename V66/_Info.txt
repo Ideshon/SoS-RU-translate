@@ -1,0 +1,3 @@
+NAME: "Russian",
+COVERAGE: ~0.95,
+CHARSET: "eastern",
